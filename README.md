@@ -1,4 +1,4 @@
-Oi 👋, eu sou o GUilherme Vallero
+Oi 👋, eu sou o Guilherme Vallero
 
 👨‍💻 Sou estudante do primeiro ano de engenharia de software
 
